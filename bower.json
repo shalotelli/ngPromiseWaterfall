@@ -1,0 +1,21 @@
+{
+  "name": "ngPromiseWaterfall",
+  "description": "Angular service for sequential flow control when using promises",
+  "authors": [
+    "Sha Alibhai <shaalibhai@unboxedtechnology.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.8",
+    "angular-mocks": "~1.4.8"
+  }
+}
